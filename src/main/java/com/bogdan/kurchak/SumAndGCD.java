@@ -24,8 +24,4 @@ public class SumAndGCD {
                 new int[] {-1, -1} :
                 new int[] {result[0], result[result.length - 1]};
     }
-
-    public static void main(String[] args) {
-        System.out.println(solve(10, 2).length);
-    }
 }
